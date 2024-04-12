@@ -5,7 +5,6 @@
 - 📫 How to reach me : contact me in my mail: bacemobey1@gmail.com or my linkedIn account https://www.linkedin.com/in/bacem-obey/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bacemobey/github-readme-stats)
-<br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bacemobey&show_icons=true&count_private=true&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=bacemobey" />
