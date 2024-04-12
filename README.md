@@ -6,8 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bacemobey/github-readme-stats)
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bacemobey&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=bacemobey" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=bacemobey" />
 </p>
 <br>
 <p align="center"> 
