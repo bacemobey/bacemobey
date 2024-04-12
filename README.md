@@ -9,7 +9,7 @@
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacemobey&layout=compact"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bacemobey&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=bacemobey&date_format=M%20j%5B%2C%20Y%5D)]" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=bacemobey" />
 </p>
 <br>
 <p align="center"> 
